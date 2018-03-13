@@ -1,0 +1,17 @@
+c:\users\даня\documents\visual studio 2015\Projects\Gamez\Gamez\bin\Debug\Gamez.exe.config
+c:\users\даня\documents\visual studio 2015\Projects\Gamez\Gamez\obj\Debug\Gamez.csprojResolveAssemblyReference.cache
+c:\users\даня\documents\visual studio 2015\Projects\Gamez\Gamez\obj\Debug\MainWindow.g.cs
+c:\users\даня\documents\visual studio 2015\Projects\Gamez\Gamez\obj\Debug\App.g.cs
+c:\users\даня\documents\visual studio 2015\Projects\Gamez\Gamez\obj\Debug\Gamez_MarkupCompile.cache
+c:\users\даня\documents\visual studio 2015\Projects\Gamez\Gamez\obj\Debug\Gamez_MarkupCompile.lref
+c:\users\даня\documents\visual studio 2015\Projects\Gamez\Gamez\obj\Debug\MainWindow.baml
+c:\users\даня\documents\visual studio 2015\Projects\Gamez\Gamez\obj\Debug\Gamez.g.resources
+c:\users\даня\documents\visual studio 2015\Projects\Gamez\Gamez\obj\Debug\Gamez.Properties.Resources.resources
+c:\users\даня\documents\visual studio 2015\Projects\Gamez\Gamez\obj\Debug\Gamez.csproj.GenerateResource.Cache
+c:\users\даня\documents\visual studio 2015\Projects\Gamez\Gamez\obj\Debug\Gamez.exe
+c:\users\даня\documents\visual studio 2015\Projects\Gamez\Gamez\obj\Debug\Gamez.pdb
+c:\users\даня\documents\visual studio 2015\Projects\Gamez\Gamez\bin\Debug\Gamez.exe
+c:\users\даня\documents\visual studio 2015\Projects\Gamez\Gamez\bin\Debug\Gamez.pdb
+C:\Users\dima\Desktop\прога курсач\Gamez\bin\Debug\Gamez.exe.config
+C:\Users\dima\Desktop\прога курсач\Gamez\obj\Debug\Gamez.exe
+C:\Users\dima\Desktop\прога курсач\Gamez\obj\Debug\Gamez.pdb
